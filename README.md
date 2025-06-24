@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi, I'm Avishkar Maitra 👋</h1>
 <p align="center">
-🎓 B.Tech CSE (AI & ML) student | Passionate about building intelligent solutions<br>
-💡 Always exploring tech and solving real-world problems with code
+🎓 B.Tech CSE (AI & ML) @ VIT | Passionate about Deep Learning & Real-World Applications<br>
+💡 Continuously learning, building AI-powered solutions, and solving real-world problems
 </p>
 
 ---
@@ -17,10 +17,27 @@
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102770?style=flat-square&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 💼 Featured Projects
+
+#### 📍 BrahmanPlanner
+An AI-powered travel itinerary builder using **React**, **Google Maps APIs**, **Firebase**, and **Gemini API**. Generates smart travel plans based on budget, location & time.
+
+#### 📜 Foundations of AI (Microsoft Internship)
+Completed a 4-week internship on “Foundations of AI” under Microsoft & Edunet Foundation. Gained hands-on exposure to AI principles, ethics, and industry applications.
+
+#### 🎤 V-Launchpad 2025 – Student Coordinator
+Coordinated the Global Innovators Challenge (V-Launchpad) hosted by SWARNA ANDHRA@2047, fostering innovation and leadership among student teams.
 
 ---
 
@@ -43,4 +60,4 @@
 ---
 
 ### 💬 Dev Quote
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “The best way to predict the future is to invent it.” – Alan Kay
