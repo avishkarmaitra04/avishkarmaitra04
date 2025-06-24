@@ -8,6 +8,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avishkarmaitra04&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
-- LinkedIn: Avishkar Maitra[(https://www.linkedin.com/in/avishkar-maitra-7b525a287)]
+- LinkedIn: Avishkar Maitra (https://www.linkedin.com/in/avishkar-maitra-7b525a287)
 - Email: avishkarmaitra@gmail.com
 
