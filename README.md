@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm [Avishkar]
 
-<!--
-**avishkarmaitra04/avishkarmaitra04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- LinkedIn: [Avishkar Maitra]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/avishkar-maitra-7b525a287))
+- Email: avishkarmaitra@gmail.com
+
