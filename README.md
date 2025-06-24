@@ -60,4 +60,4 @@ Coordinated the Global Innovators Challenge (V-Launchpad) hosted by SWARNA ANDHR
 ---
 
 ### 💬 Dev Quote
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “You learn by making mistakes and learning from them” – Avishkar Maitra
