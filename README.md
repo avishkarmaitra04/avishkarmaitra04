@@ -28,24 +28,10 @@
 
 ---
 
-### 💼 Featured Projects
-
-#### 📍 BrahmanPlanner
-An AI-powered travel itinerary builder using **React**, **Google Maps APIs**, **Firebase**, and **Gemini API**. Generates smart travel plans based on budget, location & time.
-
-#### 📜 Foundations of AI (Microsoft Internship)
-Completed a 4-week internship on “Foundations of AI” under Microsoft & Edunet Foundation. Gained hands-on exposure to AI principles, ethics, and industry applications.
-
-#### 🎤 V-Launchpad 2025 – Student Coordinator
-Coordinated the Global Innovators Challenge (V-Launchpad) hosted by SWARNA ANDHRA@2047, fostering innovation and leadership among student teams.
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=avishkarmaitra04&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkarmaitra04&theme=radical" alt="Streak Stats"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkarmaitra04&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
@@ -59,5 +45,3 @@ Coordinated the Global Innovators Challenge (V-Launchpad) hosted by SWARNA ANDHR
 
 ---
 
-### 💬 Dev Quote
-> “You learn by making mistakes and learning from them” – Avishkar Maitra
