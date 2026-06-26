@@ -139,10 +139,10 @@ AI-powered travel itinerary generator using
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avishkarmaitra04&theme=radical&no-bg=true&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=avishkarmaitra04&theme=radical&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 ---
